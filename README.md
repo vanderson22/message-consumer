@@ -6,7 +6,8 @@
 ## Tarefas:
 - Criar aplicação JAVA WEB;
 - Criar Interface Rest;
-- Swagger da documentação da interface Rest.
+- Criar branch develop ( adicionar .gitignore);
+- Swagger da documentação da interface Rest;
 
 (Requisitos funcionais)
 1 - RGN;
