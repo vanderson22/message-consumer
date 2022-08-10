@@ -1,7 +1,7 @@
 
 # Container Rabbit MQ
 services:
-    imusica_rabbit:
+    servidor_rabbit:
         image: rabbitmq:3.8.22-management
         container_name: rabbit-mq-server
         restart: always
