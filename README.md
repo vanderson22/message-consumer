@@ -23,3 +23,4 @@
 - Spring tools - https://spring.io/tools
 - Git bash
 - Docker
+- Mongo DB compass ou outra ferramenta para visualizar o banco de dados.
