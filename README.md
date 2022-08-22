@@ -24,3 +24,4 @@
 - Git bash
 - Docker
 - Mongo DB compass ou outra ferramenta para visualizar o banco de dados.
+- astah community ou draw.io para diagrams.
